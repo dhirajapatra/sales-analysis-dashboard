@@ -20,7 +20,7 @@ A data analysis project exploring profitability, sales trends, and customer beha
 - `Sales_Analysis_Case_Study.md` — full write-up of the project and findings
 
 ## Dashboard Preview
-*(add a screenshot of your Power BI dashboard here — see next step)*
+![Dashboard Screenshot](dashboard_preview.png)
 
 ## Tools Used
 SQL Server · Power BI · Excel
