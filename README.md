@@ -10,7 +10,7 @@ A data analysis project exploring profitability, sales trends, and customer beha
 ## Key Findings
 - Central region has the lowest profit of all regions
 - "Tables" is the only sub-category losing money — driven by thin margins, not just discounting
-- Sales peak sharply in December (holiday season)
+- Sales peak sharply in November (Festival Time) .
 - Return rates are consistent (~8%) across all categories
 - Home Office is the most profitable customer segment
 
