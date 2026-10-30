@@ -47,7 +47,7 @@ Order by total_Profit DESC
 select MONTH(Order_Date)as month ,sum(Sales) as total_sales
 from Orders
 group by MONTH(Order_Date)
-order by month DESC
+order by total_sales DESC
 
 --Top 10 costumers by sales .
 select Top 10 Customer_ID,sum(Sales) as total_sales
@@ -63,7 +63,7 @@ order by Profit_margin desc
 
 /*
 . Central region has the lowest profit
-. Tables (Furniture) is the least profitable sub-category — a margin issue, not just discount abuse 
+. Tables (Furniture) is the least profitable sub-category â€” a margin issue, not just discount abuse 
   (Machines has a higher discount but isn't as unprofitable)
 . Return rates are consistent (~8%) across all categories, no outlier
 . December has the highest sales (holiday season pattern)
