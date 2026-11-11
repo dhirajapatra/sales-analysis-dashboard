@@ -21,7 +21,7 @@ Even though it has decent sales, Central earns less profit than the other region
 Another product, Machines, gets discounted even more than Tables but still makes good profit. So why does Tables lose money? Because Tables are a cheaper product to begin with. When a product is already low-priced, costs like discounts, shipping, and handling eat up a much bigger chunk of the sale — sometimes more than the sale is even worth. That's why Tables ends up in the red, even without huge discounts.
 
 **3. Sales are highest in November.**
-This lines up with holiday shopping. It's useful for planning — the business should make sure it has enough stock and staff ready before December.
+This lines up with holiday shopping. It's useful for planning — the business should make sure it has enough stock and staff ready before November.
 
 **4. Return rates are about the same for every product type (around 8%).**
 No single category has a returns problem — returns seem to happen at a similar, steady rate everywhere.
