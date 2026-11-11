@@ -20,7 +20,7 @@ Even though it has decent sales, Central earns less profit than the other region
 **2. "Tables" is the only product type actually losing money — and discounts aren't the main reason.**
 Another product, Machines, gets discounted even more than Tables but still makes good profit. So why does Tables lose money? Because Tables are a cheaper product to begin with. When a product is already low-priced, costs like discounts, shipping, and handling eat up a much bigger chunk of the sale — sometimes more than the sale is even worth. That's why Tables ends up in the red, even without huge discounts.
 
-**3. Sales are highest in December.**
+**3. Sales are highest in November.**
 This lines up with holiday shopping. It's useful for planning — the business should make sure it has enough stock and staff ready before December.
 
 **4. Return rates are about the same for every product type (around 8%).**
@@ -32,7 +32,7 @@ They might not be the biggest spenders, but the business earns more profit per s
 ## What I'd recommend
 - **Look closely at the Tables product line.** Since the problem is low margin (not just discounting), simply reducing discounts won't fully fix it — the business may need to raise prices slightly, lower shipping/handling costs, or bundle it with other products.
 - **Find out why the Central region underperforms.** Compare it to better-performing regions to see what's different — pricing, costs, or product mix.
-- **Prepare for the December rush.** Stock up and staff up ahead of the holiday season since that's consistently the busiest month.
+- **Prepare for the year-end rush.** Stock up and staff up ahead of the holiday season since that's consistently the busiest month.
 - **Invest more in Home Office customers.** Since they're the most profitable group, marketing more toward them could grow profit faster than chasing more total sales.
 
 ## Tools used
